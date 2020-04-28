@@ -1,0 +1,52 @@
+
+body {
+  font-family: 'Questrial', sans-serif;
+}
+
+h1, h2 {
+  font-family: 'Girassol', cursive;
+}
+
+h4 {
+  font-family: 'Anton', sans-serif;
+}
+
+h6 {
+  font-family: 'Anton', sans-serif;
+}
+
+.navbar {
+    color: white;
+  }
+
+.jumbotron {
+    background-attachment: local;
+    background-image: url(bar-counter.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  
+    /* Fonts */
+    /* The text-shadow helps the white text stand out better on a darker background */
+    color: white;
+    text-shadow: 1px 1px 1px black;
+  }
+
+  .spiritguide {
+    background-color: lightgrey;
+  }
+
+  hr{
+    height: 1px;
+    margin: 30px -1000px 10px;
+    background-color: #ccc;
+    border: none;
+}
+
+
+
+.single-article hr {
+  margin: 30px -20px 20px;
+  border: 0;
+  border-top: 1px solid #c9c7c7;
+}
